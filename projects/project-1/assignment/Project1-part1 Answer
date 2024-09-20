@@ -1,0 +1,2 @@
+A calculs, or logic, is unsutisfiable (Xunsat) iff among its formulae it is present or can be inferred an unsatisfiable formula, i.e. a contradiction, like a&~a.
+A calculus, or logic, is undecidable (Xnd) iff among its 
