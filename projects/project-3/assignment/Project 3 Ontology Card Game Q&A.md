@@ -1,12 +1,4 @@
 
- 
-trick: considering all carda as instances of the class Print or Photograph
-
-
- 
- 
- 
-
 **Particular Universes Playtest Session A**
 
 Please discuss and answer as a group.
